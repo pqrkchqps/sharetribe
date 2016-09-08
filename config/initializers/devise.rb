@@ -273,5 +273,4 @@ Devise.setup do |config|
 
   #Devise.secret_key
   config.secret_key = 'c122ee6138d36c42e80cf384885f603be72463a586219f379ab040acd9840de1390de6fc8aeda53e184dabf92829eafce30e97cec7de4555686faa887df8aa1a'
->>>>>>> Stashed changes
 end
